@@ -1,4 +1,4 @@
-﻿OBJECTID,Facility Name,Street Address,City,ZIP Code,County Code,County Name,Type,Category,Longitude X,Latitude Y,x,y
+﻿OBJECTID,Facility Name,Street Address,City,ZIP Code,County Code,County Name,Type,Category,longitude,latitude,x,y
 1,BERKELEY THERAPY INSTITUTE,1749 Martin Luther King Jr Way,Berkeley,94709,1,Alameda,Clinic,Community Clinic,-122.273185,37.874755,-13611387.23,4561747.266
 2,EAST OAKLAND HEALTH CENTER,7450 International Blvd,Oakland,94621,1,Alameda,Clinic,Community Clinic,-122.18576,37.7586,-13601655.12,4545379.288
 3,EASTER SEAL SOC OF THE BAY AREA,2757 Telegraph Ave,Oakland,94612,1,Alameda,Clinic,Community Clinic,-122.26791,37.81674,-13610800.02,4553568.865
