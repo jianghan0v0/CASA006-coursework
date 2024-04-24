@@ -1,0 +1,58 @@
+County_Name,County_Code,Clinic_Count,Hospital_Count,total
+Alameda,6001,104,10,114
+Amador,6005,1,1,2
+Butte,6007,20,6,26
+Calaveras,6009,4,1,5
+Colusa,6011,3,1,4
+Contra Costa,6013,28,12,40
+Del Norte,6015,5,1,6
+El Dorado,6017,7,2,9
+Fresno,6019,58,15,73
+Glenn,6021,4,1,5
+Humboldt,6023,27,5,32
+Imperial,6025,12,2,14
+Inyo,6027,2,2,4
+Kern,6029,55,16,71
+Kings,6031,10,4,14
+Lake,6033,5,2,7
+Lassen,6035,9,2,11
+Los Angeles,6037,495,127,622
+Madera,6039,8,3,11
+Marin,6041,21,5,26
+Mariposa,6043,3,1,4
+Mendocino,6045,17,5,22
+Merced,6047,22,4,26
+Modoc,6049,1,2,3
+Monterey,6053,29,4,33
+Napa,6055,7,3,10
+Nevada,6057,10,2,12
+Orange,6059,87,43,130
+Placer,6061,5,3,8
+Plumas,6063,1,4,5
+Riverside,6065,52,25,77
+Sacramento,6067,35,13,48
+San Benito,6069,3,3,6
+San Bernardino,6071,37,27,64
+San Diego,6073,156,34,190
+San Francisco,6075,70,16,86
+San Joaquin,6077,30,8,38
+San Luis Obispo,6079,42,5,47
+San Mateo,6081,20,14,34
+Santa Barbara,6083,36,10,46
+Santa Clara,6085,66,18,84
+Santa Cruz,6087,13,4,17
+Shasta,6089,19,5,24
+Sierra,6091,2,2,4
+Siskiyou,6093,8,2,10
+Solano,6095,12,5,17
+Sonoma,6097,40,12,52
+Stanislaus,6099,22,10,32
+Sutter,6101,13,4,17
+Tehama,6103,4,1,5
+Trinity,6105,1,1,2
+Tulare,6107,30,11,41
+Tuolumne,6109,8,5,13
+Ventura,6111,29,12,41
+Yolo,6113,10,2,12
+Yuba,6115,9,1,10
+Mono,6051,0,1,1
